@@ -1,22 +1,23 @@
 # Exercice sur Markdown
 
-## Liste non ordonnée
-- Élément 1
-- Élément 2
-- Élément 3
+Markdown est un langage de balisage léger utilisé pour formater du texte brut en HTML. Il est simple à apprendre avec une syntaxe intuitive, ce qui en fait un choix populaire pour la rédaction de documents en ligne, y compris des articles, des pages web et des documents de projet. Les éléments couramment utilisés incluent les titres, les listes, les liens hypertextes et l'emphase du texte.
+## POUR UN BON CAFE
+- **café noir**
+- **SANS** lait
+- **Sans**SUCRE
 
-## Liste ordonnée
-1. Premier élément
-2. Deuxième élément
-3. Troisième élément
+## Liste non exaustive de mes animaux preferer 
+1. Chat
+2. CHAT
+3. CHAT
 
-## Liste imbriquée
-- Élément 1
-  1. Sous-élément A
-  2. Sous-élément B
-- Élément 2
-  - Sous-élément C
-  - Sous-élément D
+## fruit
+- Agrumes
+  1. Orange
+  2. Mandarine
+- Fruits pas bon
+  - Goyave
+  - pamplemouse
 
 ## Titres et sous-titres
 ### Niveau 1
@@ -28,10 +29,10 @@
 
 
 ## Image statique
-![Logo Markdown](url-de-l-image-statique.png)
+![Logo Markdown](https://www.kamailio.org/w/wp-content/uploads/2022/05/markdown-logo.jpeg)
 
 ## Image animée
-![GIF animé](url-de-l-image-animée.gif)
+![GIF animé](https://i.gifer.com/XIb.gif)
 
 ## Exemple de code
 ```python
