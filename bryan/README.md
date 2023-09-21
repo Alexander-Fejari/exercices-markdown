@@ -1,3 +1,3 @@
 # README
 
-[Go to Mardown file](./mardown-bryan.md)
+[Go to Markdown file](./bryan/markdown-bryan.md)
