@@ -11,6 +11,7 @@
 
 >Markdown est un langage de balisage léger qui permet de formater du texte de manière simple et lisible, tout en conservant une structure minimale. Il est couramment utilisé pour rédiger de la documentation, des fichiers README, des articles de blog et d'autres types de contenu en ligne. Le format Markdown utilise des caractères spéciaux (comme # pour les titres, * pour l'italique, ** pour le gras, etc.) pour ajouter des éléments de mise en forme au texte, tout en restant facile à lire, même sous forme de texte brut. De nombreux services en ligne, y compris GitHub, prennent en charge la syntaxe Markdown pour permettre aux utilisateurs de créer du contenu formaté de manière propre et cohérente.
 
+.
 
 
 
