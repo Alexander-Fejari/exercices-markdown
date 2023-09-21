@@ -52,7 +52,7 @@
 
 # A bit of code
 
-```
+```js
 if (coding){  
 headphones = true; 
 focus = 100;
